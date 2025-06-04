@@ -1,0 +1,1 @@
+# Simulador_Dipolo_Electrico
